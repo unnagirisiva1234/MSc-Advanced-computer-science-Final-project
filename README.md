@@ -5,6 +5,9 @@
 
 Credit card fraud is a significant challenge for the banking and financial services industry. The increasing use of digital payment systems has created a need for intelligent fraud detection approaches capable of identifying suspicious transactions accurately while minimising false-positive alerts.
 
+
+Dataset link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 This project develops and evaluates an Explainable Machine Learning Framework for Credit Card Fraud Detection and Risk Management. It investigates the application of machine learning algorithms, class imbalance handling techniques and Explainable Artificial Intelligence (XAI) to identify fraudulent credit card transactions and improve the interpretability of model predictions.
 
 The project uses the European Credit Card Fraud Detection dataset and evaluates five machine learning approaches: Logistic Regression, Random Forest, XGBoost, Isolation Forest and Hybrid XGBoost. SHapley Additive exPlanations (SHAP) is incorporated to examine feature contributions and provide insights into model behaviour.
